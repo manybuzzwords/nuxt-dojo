@@ -5,5 +5,5 @@ export default defineNuxtConfig({
   devtools: { enabled: true }
   /* API keys etc also go here */,
 
-  modules: ["@nuxtjs/tailwindcss"]
+  modules: ["@nuxtjs/tailwindcss", "@nuxt/content"]
 })
